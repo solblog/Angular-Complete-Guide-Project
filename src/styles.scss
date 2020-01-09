@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+
+.componentFrame{
+  border: 1px solid rgb(221, 221, 221);
+  padding: 5px;
+}
+
+.componentFrame .componentName{
+  float:right;
+  width:120px;
+  color:#777;
+  // text-align: right;
+  // border: 1px solid;
+}
+
